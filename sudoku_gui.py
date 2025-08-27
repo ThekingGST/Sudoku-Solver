@@ -1,3 +1,4 @@
+import os
 import tkinter as tk
 from tkinter import messagebox, filedialog, simpledialog
 from Sudoku import SudokuGame, choose_puzzle
